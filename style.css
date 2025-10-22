@@ -117,7 +117,7 @@ nav {
 /* Hero: split layout, highlighted text, image card. Topics: flex, typography scale, gradients. */
 /* Hero Section */
 .hero {
-  min-height: calc(100vh - 72px);
+  min-height: calc(100vh - 48px);
   display: flex;
   align-items: center;
   padding-top: 0;
