@@ -544,7 +544,11 @@ footer {
 
   .animated-robot {
     font-size: 36px;
-    margin-left: 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    margin-left: 0;
+    z-index: 10;
   }
 
   .hero-buttons {
