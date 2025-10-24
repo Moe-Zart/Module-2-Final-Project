@@ -500,6 +500,10 @@ footer {
     display: none;
   }
 
+  .hero {
+    padding-top: 20px;
+  }
+
   .stats-grid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -549,6 +553,10 @@ footer {
 }
 
 @media (max-width: 640px) {
+  .hero {
+    padding-top: 30px;
+  }
+
   .hero-text h1 {
     font-size: 36px;
   }
